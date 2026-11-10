@@ -1,0 +1,63 @@
+BUSINESS MANAGER STARTER — SOURCE-AVAILABLE LICENSE
+Copyright (c) 2026 Muhammed Hisham
+
+This license applies to the original Starter project materials in this repository that are owned by the copyright holder. It does not replace or limit the separate licenses that apply to third-party components. See THIRD_PARTY_NOTICES.md and docs/THIRD_PARTY_LICENSE_INVENTORY.md.
+
+By downloading, copying, modifying, or using the covered project materials, you agree to these terms. If you do not agree, do not use or distribute the covered materials.
+
+1. PERMISSION GRANT
+
+The copyright holder grants you a worldwide, non-exclusive, royalty-free license to download, use, reproduce, modify, and create derivative works from the covered project materials for personal and commercial purposes, subject to the restrictions below.
+
+You may:
+- Study the source code and use it as a learning resource.
+- Modify, customize, and build applications from the Starter.
+- Use the Starter in your own applications and in applications developed for clients.
+- Publish, distribute, and commercially offer those applications, including through app stores.
+- Charge clients for development services and deliver the customized application to them.
+- Provide a client with the source code of that client's customized application for its use, maintenance, and further development, subject to the restrictions in section 2.
+
+There is no one-project limit under this license.
+
+2. PROHIBITED REDISTRIBUTION
+
+You may not, without the copyright holder's prior written permission, redistribute, resell, re-license, host, sublicense, or otherwise make available the reusable Starter source-code template, boilerplate configuration, or a substantially reusable derivative of the Starter on any public digital marketplace, code repository, or commercial asset platform. This restriction applies whether the material is offered for a fee or free of charge and includes modified versions that remain substantially reusable as a template, starter kit, boilerplate, app generator, or competing development resource.
+
+This restriction does not prohibit the copyright holder from publishing or hosting the official Starter repository and its authorized releases.
+
+Delivery of a completed, compiled, or customized application, including its customized source code, to a single direct client as part of a specific bespoke contractual engagement is permitted. The source code may be provided to that client for the client's use, maintenance, and further development, but it must not be packaged, transferred, or marketed to that client or any third party as a reusable development framework, boilerplate, template, or starter kit. The client may not extract and redistribute the Starter or a substantially reusable derivative as a standalone reusable development resource.
+
+You may distribute your own application-specific code and the compiled application, provided that the distribution does not republish the Starter or a substantially reusable derivative as a reusable template or source-code product.
+
+You may not:
+- Use the Starter or a derivative primarily to create or operate a service whose purpose is to distribute reusable templates or starter projects that compete with this project.
+- Remove or obscure copyright and license notices included with the covered materials.
+- Claim that you authored the original Starter project or that you own third-party materials included in it.
+
+3. OWNERSHIP AND THIRD-PARTY MATERIALS
+
+The copyright holder retains ownership of the original project materials. This license grants permissions to use those materials; it does not transfer ownership.
+
+Third-party libraries, fonts, icons, images, and other components remain subject to their own licenses and notices. Those licenses may grant rights that this license does not restrict. You are responsible for complying with the applicable third-party terms when using or distributing those components.
+
+4. ATTRIBUTION
+
+You must retain existing copyright and license notices in copies or substantial portions of the covered materials. You are not required to display a public attribution in the user interface of an application built with the Starter.
+
+5. TERMINATION
+
+The permissions granted by this license terminate automatically if you materially violate its terms. They may be reinstated if the violation is corrected within 30 days after you become aware of it or receive written notice of it, whichever occurs first. Termination does not affect rights or remedies that cannot lawfully be limited.
+
+6. DISCLAIMER OF WARRANTY
+
+The covered materials are provided "as is", without warranties or conditions of any kind, express or implied, to the maximum extent permitted by applicable law. This includes, without limitation, warranties of merchantability, fitness for a particular purpose, and non-infringement. You are responsible for evaluating the project and its suitability for your use.
+
+7. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the copyright holder will not be liable for any claim, damages, or other liability arising from the project or its use, whether in contract, tort, or otherwise. Nothing in this license excludes liability that cannot lawfully be excluded or limited.
+
+8. GENERAL
+
+This license does not grant trademark rights or rights to use the copyright holder's name or branding to promote your application. If any provision is unenforceable, the remaining provisions will continue to apply to the extent permitted by law.
+
+This is a custom source-available license, not an OSI-approved open-source license. It is not legal advice. If you need legal certainty for a commercial release, have the final terms reviewed by a qualified lawyer in your jurisdiction.
